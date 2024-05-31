@@ -1,0 +1,2 @@
+gcn-kafka==0.3.3
+adsputils==1.5.2

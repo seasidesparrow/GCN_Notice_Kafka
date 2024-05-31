@@ -1,0 +1,6 @@
+nohup.*
+local_config.py
+logs/*
+venv/
+voevents/*
+*.py[co]
